@@ -106,7 +106,7 @@ export function App() {
           <Separator/>
 
           <Button type="submit" disabled={isLoading} className="w-full">
-            Carregar vídeo
+            Executar
             <Wand2 className="w-4 h-4 ml-2"/>
           </Button>
 
