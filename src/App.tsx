@@ -109,7 +109,6 @@ export function App() {
             Executar
             <Wand2 className="w-4 h-4 ml-2"/>
           </Button>
-
         </form>
       </aside>
     </main>
